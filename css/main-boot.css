@@ -1,0 +1,98 @@
+
+.page-wrap {
+  background: #ece9da;
+}
+header {
+  background-img:
+}
+
+li {
+  font-color: white;
+}
+
+.contact-links {
+  text-align: right;
+  }
+
+.social-rt-pad {
+padding-right: 2.15rem;
+}
+
+.hero {
+  background:linear-gradient(to left,rgb(255, 229, 0), rgb(235, 233, 232));
+  height: 30vh;
+}
+
+
+.hero-headline {
+  text-align: left;
+  padding-top: .85em;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+
+.profile-pic {
+  width: 200px;
+  height: auto;
+  border-radius: 100%;
+  box-shadow: 0px 2px 20px 6px #888888;;
+}
+.wrapper {
+  margin-top: 2em;
+}
+.details {
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+.about {
+  text-align: center;
+}
+
+.card-btn {
+  border-color: red!important;
+  color: white;
+  background-color: #aaaaaa;
+  border-radius: 0!important;
+}
+
+@media screen and (max-width: 991px) {
+  .hero {
+    height: auto;
+  }
+
+  .hero-headline {
+    padding: 0;
+    text-align: center;
+  }
+
+  .profile-pic {
+    width: 150px;
+    height: auto;
+    margin: 1.95em auto 0 auto;
+  }
+}
+.cards {
+  text-align: center;
+  text-align: -webkit-center;
+}
+.card {
+  margin: auto;
+}
+.card-img-top {
+  width:100%;
+  text-align: center;
+}
+
+.card-title {
+  margin: 1em 0 1em 0;
+}
+
+.designer-pic {
+  width: 40px;
+  height: auto;
+  border-radius: 100%;
+  vertical-align: bottom;
+}
+
